@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello viewers, welcome to my profile. <br>I am a software developer currently working at indication instruments limited<br>working on computer vision project driver monitor system <br> <br>
+Hello viewers, welcome to my profile. <br>I am a software developer currently working at indication instruments limited<br> experience in computer vision, desktop application developement, webdevelopement  <br> <br>
 
 
 ## 🌐 Socials:
@@ -13,10 +13,5 @@ Hello viewers, welcome to my profile. <br>I am a software developer currently wo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod140&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Vinod140&icon=10&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
