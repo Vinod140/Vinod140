@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello viewers, welcome to my profile. <br>I am a software developer currently working at indication instruments limited<br> experience in computer vision, desktop application developement, webdevelopement  <br> <br>
+Hello viewers, welcome to my profile. <br>I am a software developer currently working at indication instruments limited<br> experience in computer vision, desktop application developement, web developement  <br> <br>
 
 
 ## 🌐 Socials:
