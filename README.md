@@ -13,7 +13,6 @@ Hello viewers, welcome to my profile. <br>I am a software developer currently wo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod140&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vinod140&icon=10&color=0)](https://visitcount.itsvg.in)
 
 
 
